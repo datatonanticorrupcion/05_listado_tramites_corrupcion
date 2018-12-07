@@ -2,7 +2,7 @@
 Resultados consulta de trámites señalados por la comunidad empresarial para revisión. La consulta tiene como objetivo recabar la opinión de la sociedad sobre los trámites que el sector empresarial en México ha identificado para su revisión y la cual permitirá identificar acciones claras para incrementar la eficiencia en la realización de dichos trámites. Universo de la consulta 115 trámites a 12 Instituciones de la APF
 
 ## ¿Dónde están los datos?
-+ [xlsx] Resultados Consulta de Trámites señalados por la Comunidad Empresarial para revisión: Resul: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/datasetsfp/Encuesta_Tramites_CCE.xlsx
++ [xlsx] Resultados Consulta de Trámites señalados por la Comunidad Empresarial para revisión: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/datasetsfp/Encuesta_Tramites_CCE.xlsx
 
 ## ¿Qué campos contiene?
 + Dependencia
